@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586142620579",
+    "firebase_url": "https://loginauthentication-8e334.firebaseio.com",
+    "project_id": "loginauthentication-8e334",
+    "storage_bucket": "loginauthentication-8e334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586142620579:android:04a8e45c74e8191e751816",
+        "android_client_info": {
+          "package_name": "com.diki.idn.loginauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586142620579-rbhf9p3hqqvrg1bnckh0orr28bfms4li.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diki.idn.loginauthentication",
+            "certificate_hash": "93db9c305b9368b2ee7c41b90226d315d0202073"
+          }
+        },
+        {
+          "client_id": "586142620579-7e6ogf9b88kdl0biakuian0euoungtgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASWVRebZMoRq_FqmcRDvcK0TISHNQmGCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586142620579-7e6ogf9b88kdl0biakuian0euoungtgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
